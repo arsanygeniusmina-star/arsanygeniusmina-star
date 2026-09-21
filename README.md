@@ -1,83 +1,120 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=ARSANY%20MINA&fontSize=72&fontAlignY=38&fontColor=ffffff&desc=BUILDING%20THE%20NEXT%20THING&descAlignY=58&descSize=18&animation=fadeIn&color=0:050505,35:0d1117,65:161b22,100:58a6ff" width="100%" alt="Arsany Mina"/>
+
 <a href="https://github.com/arsanygeniusmina-star">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:21262d&text=ARSANY%20MINA&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Building%20ideas%20into%20real%20things%20%E2%80%94%20one%20commit%20at%20a%20time&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Arsany Mina profile banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=850&height=70&lines=VIBE+CODER+%E2%80%A2+BUILDER+%E2%80%A2+CREATIVE+ENGINEER;TURNING+IDEAS+INTO+INTERACTIVE+EXPERIENCES;AI+%C3%97+WEB+%C3%97+DESIGN+%C3%97+EXPERIMENTATION;IF+I+CAN+IMAGINE+IT%2C+I+WANT+TO+BUILD+IT." alt="Animated introduction"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/arsanygeniusmina-star">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Vibe+Coder+%7C+Builder+%7C+Problem+Solver;Web+Experiences+%E2%80%A2+AI+Tools+%E2%80%A2+Creative+Projects;Designing%2C+coding%2C+breaking%2C+rebuilding.;Always+building+the+next+thing." alt="Typing introduction"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/arsanygeniusmina-star?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+<a href="https://github.com/arsanygeniusmina-star?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="Explore"/></a>
 &nbsp;
-<a href="https://github.com/arsanygeniusmina-star?tab=stars">
-  <img src="https://img.shields.io/badge/MY%20STARS-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
-</a>
+<a href="https://github.com/arsanygeniusmina-star?tab=projects"><img src="https://img.shields.io/badge/PROJECTS-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Projects"/></a>
+&nbsp;
+<a href="https://github.com/arsanygeniusmina-star?tab=stars"><img src="https://img.shields.io/badge/STARS-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="Stars"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=arsanygeniusmina-star&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=arsanygeniusmina-star&style=flat-square&color=58a6ff&label=VISITORS" alt="Profile visitors"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## > whoami
+### 01 / THE PERSON
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58a6ff" width="55%" alt="section divider"/>
 
 </div>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-### Hey, I'm Arsany 👋
+# Hey. I'm Arsany. 👋
 
-I'm a builder who likes turning **random ideas into real, usable software**.
+I'm a **builder first**.
 
-I spend a lot of time experimenting with:
-- 🌐 Interactive web experiences
-- 🤖 AI-powered tools & workflows
-- 🎨 UI/UX with motion and personality
-- 🧩 Full-stack experiments
-- ⚡ Fast prototyping and vibe coding
+I like taking an idea that exists only as a thought and turning it into something you can actually **open, click, use and experience**.
 
-I don't want software to just **work**.
+My favorite part isn't writing code for the sake of writing code.
 
-I want it to feel **alive**.
+It's the moment when an idea suddenly becomes **real**.
+
+<br/>
+
+**What I'm obsessed with**
+
+- 🤖 AI that actually helps people build
+- 🌐 Websites that feel like experiences
+- 🎨 Interfaces with personality
+- ⚡ Rapid experimentation
+- 🧠 Learning by making
+- 🚀 Shipping things instead of endlessly planning them
 
 </td>
-<td width="45%" valign="top">
 
-### Current mindset
+<td width="42%" valign="top">
 
-| Stage | |
-|---|---|
-| IDEA | ↓ |
-| PROTOTYPE | ↓ |
-| BREAK IT | ↓ |
-| LEARN WHY | ↓ |
-| REBUILD | ↓ |
-| SHIP 🚀 | |
+### CURRENT STATUS
 
-> **Build → learn → improve → repeat.**
+```
+╭────────────────────────────╮
+│                            │
+│   STATUS     BUILDING      │
+│   MODE       EXPERIMENTAL  │
+│   ENERGY     ██████████    │
+│   CURIOSITY  ∞             │
+│                            │
+│   NEXT IDEA → ???          │
+│                            │
+╰────────────────────────────╯
+```
+
+> **The goal isn't to know everything.**
+>
+> **The goal is to build enough to discover what's next.**
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 <div align="center">
 
-## > what I'm building
+### 02 / THE PHILOSOPHY
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=850&height=45&lines=IDEA+%E2%86%92+PROTOTYPE+%E2%86%92+BREAK+%E2%86%92+LEARN+%E2%86%92+REBUILD+%E2%86%92+SHIP;MAKE+IT+WORK.+MAKE+IT+FEEL+GOOD.+THEN+MAKE+IT+BETTER." alt="Build philosophy"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center"><h2>💡</h2><b>Imagine</b><br/><sub>Find the interesting idea.</sub></td>
+<td align="center">→</td>
+<td align="center"><h2>⚡</h2><b>Build</b><br/><sub>Prototype before overthinking.</sub></td>
+<td align="center">→</td>
+<td align="center"><h2>🧪</h2><b>Break</b><br/><sub>Discover what doesn't work.</sub></td>
+<td align="center">→</td>
+<td align="center"><h2>🧠</h2><b>Learn</b><br/><sub>Turn mistakes into knowledge.</sub></td>
+<td align="center">→</td>
+<td align="center"><h2>🚀</h2><b>Ship</b><br/><sub>Put it into the world.</sub></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 03 / THE LAB
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58a6ff" width="55%" alt="section divider"/>
 
 </div>
 
@@ -85,269 +122,231 @@ I want it to feel **alive**.
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI + Automation
+## 🤖 AI LAB
 
-Exploring ways AI can move beyond chat and become a **real building partner**.
+I'm interested in what happens when AI becomes part of the **building process**, not just a chatbot sitting beside it.
 
-**Interests**
+**Exploring**
 - AI agents
-- Developer workflows
-- AI-assisted creation
+- AI-assisted development
 - Automation
+- Developer tools
 - Intelligent interfaces
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Web Experiences
+## 🌌 WEB LAB
 
-Building websites that feel more like **digital experiences** than static pages.
+I love pushing websites beyond "nice looking" into something people actually **remember**.
 
-**Focus**
+**Exploring**
 - Motion
 - 3D
+- Scroll storytelling
 - Micro-interactions
-- Responsive layouts
-- Immersive storytelling
+- Experimental UI
+- Responsive experiences
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Product Experiments
+## 🧩 PRODUCT LAB
 
-I like taking an idea and asking:
+A lot of my projects start with one question:
 
-> *"What if this actually existed?"*
+> *"What if this existed?"*
 
-Then I build it.
+Then comes the fun part.
+
+**Build it.**
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Learning in Public
+## 🧠 LEARNING LAB
 
-Every project is an experiment.
+Every repository is a snapshot of something I was learning.
 
-Some ship.
-Some break.
-Some become something completely different.
+Some projects become products.
+Some become experiments.
+Some become lessons.
 
-**All of them teach me something.**
+**None are wasted.**
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 <div align="center">
 
-## > featured builds
+### 04 / THE TOOLKIT
 
 <br/>
 
-<a href="https://github.com/arsanygeniusmina-star/MediFind">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=MediFind&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="MediFind"/>
-</a>
-&nbsp;
-<a href="https://github.com/arsanygeniusmina-star/Bullsartstudio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=Bullsartstudio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Bulls Art Studio"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/arsanygeniusmina-star/MediBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=MediBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="MediBot"/>
-</a>
-&nbsp;
-<a href="https://github.com/arsanygeniusmina-star/desktop-jarvis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=desktop-jarvis&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Desktop Jarvis"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## > the stack
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,git,github,vscode&perline=11" alt="Technology icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode,figma&perline=12" alt="Technology stack"/>
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center"><b>Frontend</b><br/>HTML · CSS · JavaScript · TypeScript · React</td>
-<td align="center"><b>Backend / Tools</b><br/>Node.js · Python · APIs · Git · GitHub</td>
-<td align="center"><b>Creative</b><br/>Motion · 3D · UI/UX · Interactive Web</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/FRONTEND-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" alt="Frontend"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=3776ab" alt="Python"/>
+<img src="https://img.shields.io/badge/AI%20TOOLS-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff" alt="AI tools"/>
+<img src="https://img.shields.io/badge/3D%20%26%20MOTION-0d1117?style=for-the-badge&logo=three.js&logoColor=ffffff" alt="3D and motion"/>
 
 </div>
-
----
-
-<div align="center">
-
-## > github telemetry
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=arsanygeniusmina-star&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arsanygeniusmina-star&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=F85149&currStreakLabel=58A6FF" width="49%" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arsanygeniusmina-star&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
-
-</div>
-
----
-
 <div align="center">
 
-## > projects worth exploring
+### 05 / BUILDS
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=800&height=40&lines=A+FEW+THINGS+I'VE+TURNED+FROM+IDEAS+INTO+REAL+REPOSITORIES..." alt="Builds introduction"/>
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🩺 MediFind
-
-A medical-focused project exploring a more useful way to find and work with medical information.
-
-**→** [Open repository](https://github.com/arsanygeniusmina-star/MediFind)
-
-</td>
-<td width="33%" valign="top">
+<a href="https://github.com/arsanygeniusmina-star/Bullsartstudio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=Bullsartstudio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" alt="Bulls Art Studio"/>
+</a>
 
 ### 🎨 Bulls Art Studio
 
-A creative web experience built around the Bulls Art Studio brand.
-
-**→** [Open repository](https://github.com/arsanygeniusmina-star/Bullsartstudio)
+A creative web experience built around the Bulls Art Studio brand — focused on visual identity, interaction and presentation.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+<a href="https://github.com/arsanygeniusmina-star/MediFind">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=MediFind&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" alt="MediFind"/>
+</a>
+
+### 🩺 MediFind
+
+A medical-focused project exploring ways to make medical information easier to find and work with.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/arsanygeniusmina-star/MediBot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=MediBot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" alt="MediBot"/>
+</a>
 
 ### 🤖 MediBot
 
-An AI-oriented experiment exploring conversational software.
-
-**→** [Open repository](https://github.com/arsanygeniusmina-star/MediBot)
+An AI-oriented experiment around conversational software.
 
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+<a href="https://github.com/arsanygeniusmina-star/desktop-jarvis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=desktop-jarvis&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="100%" alt="Desktop Jarvis"/>
+</a>
 
 ### 🖥️ Desktop Jarvis
 
-An experiment inspired by the idea of a personal desktop AI assistant.
-
-**→** [Open repository](https://github.com/arsanygeniusmina-star/desktop-jarvis)
-
-</td>
-<td width="33%" valign="top">
-
-### 🏎️ Lando Norris
-
-A project built around an interactive sports / motorsport experience.
-
-**→** [Open repository](https://github.com/arsanygeniusmina-star/landonorris)
-
-</td>
-<td width="33%" valign="top">
-
-### 📚 Book Hero
-
-A lightweight project experimenting with a focused web experience.
-
-**→** [Open repository](https://github.com/arsanygeniusmina-star/Book-Hero)
+An experiment inspired by the idea of a personal AI assistant living on the desktop.
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+
+<a href="https://github.com/arsanygeniusmina-star?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-161b22?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View all repositories"/>
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-## > how I build
+### 06 / THE DATA
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF" width="80%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58a6ff" width="55%" alt="section divider"/>
 
 <br/><br/>
 
-<table>
+<img src="https://github-readme-stats.vercel.app/api?username=arsanygeniusmina-star&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub statistics"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arsanygeniusmina-star&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=F85149&currStreakLabel=58A6FF" width="49%" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arsanygeniusmina-star&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=THE%20BUILD%20TIMELINE" width="100%" alt="GitHub activity graph"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 07 / THE OTHER SIDE
+
+<table width="90%">
 <tr>
-<td align="center"><b>01</b><br/>💡<br/><sub>Find an idea</sub></td>
-<td>→</td>
-<td align="center"><b>02</b><br/>⚡<br/><sub>Prototype fast</sub></td>
-<td>→</td>
-<td align="center"><b>03</b><br/>🧪<br/><sub>Experiment</sub></td>
-<td>→</td>
-<td align="center"><b>04</b><br/>🔧<br/><sub>Improve</sub></td>
-<td>→</td>
-<td align="center"><b>05</b><br/>🚀<br/><sub>Ship</sub></td>
+<td align="center" width="33%">
+
+### 🎨 DESIGN
+
+I care about the details people notice **without realizing they noticed them.**
+
+</td>
+<td align="center" width="33%">
+
+### 🧠 CURIOSITY
+
+If something makes me think **"wait... could I build that?"** I'm probably going to try.
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 MOMENTUM
+
+A finished imperfect project teaches more than a perfect project that never ships.
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-**Curiosity > perfection**
+<blockquote>
+<h3>“Don't just make software work.<br/>Make people want to keep using it.”</h3>
+</blockquote>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## > beyond the code
+### 08 / THE NEXT BUILD
 
-<table>
-<tr>
-<td>🎨 <b>Design</b><br/><sub>I care about how software feels.</sub></td>
-<td>🧠 <b>Learning</b><br/><sub>Every build is a lesson.</sub></td>
-<td>🚀 <b>Shipping</b><br/><sub>Ideas become useful when they're real.</sub></td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=WHAT+WILL+I+BUILD+NEXT%3F;SOMETHING+USEFUL%3F;SOMETHING+WEIRD%3F;SOMETHING+I+HAVE+NEVER+SEEN+BEFORE%3F;PROBABLY+ALL+THREE." alt="Next build animation"/>
 
-<br/>
-
-### A small principle I keep coming back to
-
-> **Don't wait until you know everything. Build something, then learn what you need next.**
-
-</div>
-
----
-
-<div align="center">
-
-## > let's build something
-
-<br/>
+<br/><br/>
 
 <a href="https://github.com/arsanygeniusmina-star">
-<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://github.com/arsanygeniusmina-star?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="Repositories"/>
+<img src="https://img.shields.io/badge/ENTER%20THE%20LAB-58A6FF?style=for-the-badge&logo=github&logoColor=0d1117" alt="Enter the lab"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:21262d,50:161b22,100:0d1117&animation=fadeIn" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:58a6ff,30:21262d,70:161b22,100:050505&animation=fadeIn" width="100%" alt="Animated footer"/>
 
-<sub>Built with curiosity · powered by code · always iterating.</sub>
+<sub>Arsany Mina · building in public · one experiment at a time.</sub>
 
 </div>
