@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=ARSANY%20MINA&fontSize=72&fontColor=F5FAFF&fontAlignY=40&desc=BUILDING%20WHAT%20COMES%20NEXT&descAlignY=66&descSize=17&animation=fadeIn&color=0:070B18,40:10264A,72:073B55,100:00B8D9" alt="Arsany Mina — Building what comes next"/>
+<img width="100%" src="https://raw.githubusercontent.com/arsanygeniusmina-star/arsanygeniusmina-star/main/assets/profile-hero.svg" alt="Arsany Mina — AI systems, product engineering, immersive interfaces"/>
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=750&color=42DDF5&center=true&vCenter=true&width=700&height=42&lines=AI+AGENTS+%2F+PRODUCT+ENGINEERING;IMMERSIVE+WEB+%2F+ANDROID+APPS;IDEAS+INTO+REAL%2C+WORKING+SOFTWARE" alt="Areas of focus"/></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=760&height=38&lines=AI+AGENTS+%2F+PRODUCT+ENGINEERING;WEB+EXPERIENCES+%2F+ANDROID+APPS;TURNING+IDEAS+INTO+WORKING+SOFTWARE" alt="Areas of focus"/></a>
 
 <a href="https://github.com/arsanygeniusmina-star?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0B1728?style=for-the-badge&logo=github&logoColor=66E3F5" alt="Projects"/></a>
 <a href="https://www.bulls-art.com/"><img src="https://img.shields.io/badge/BULLS_ART-0B1728?style=for-the-badge&logo=vercel&logoColor=66E3F5" alt="Bulls Art"/></a>
@@ -21,9 +21,11 @@
 
 ### Curious by default. Builder by choice.
 
-I’m **Arsany Mina** — a developer exploring the space between **AI, product engineering, and immersive design**.
+I’m **Arsany Mina**, a developer exploring the intersection of **AI, product engineering, and immersive design**.
 
-I build practical tools and ambitious experiments: AI-agent workflows, modern web experiences, Android applications, and Arabic-first platforms. I enjoy the whole process — understanding a problem, shaping the experience, engineering the system, and iterating until it feels right.
+I build practical tools and ambitious experiments — from AI-agent workflows and modern web experiences to Android applications and Arabic-first platforms. My process is simple: understand the problem, shape the experience, engineer the system, and keep refining the details.
+
+<sub>Currently interested in: agentic workflows · browser-side AI · useful products · interfaces with personality</sub>
 
 </div>
 
@@ -71,7 +73,7 @@ Glass-inspired interfaces, motion, clear information hierarchy, and responsive e
 
 ## SELECTED WORK
 
-<sub>Featured by technical ambition and product scope. Each card links to its repository.</sub>
+<sub>A selected snapshot of what I’m exploring. Open any project to inspect the code and current state.</sub>
 
 </div>
 
@@ -192,7 +194,13 @@ _The live project feed will populate on the first successful workflow run._
 
 ## TOOLKIT
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,kotlin,androidstudio,html,css,tailwind,git,github,firebase,supabase,vercel,figma&perline=9" alt="Development tools and technologies"/>
+<sub>LANGUAGES & UI</sub>
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,kotlin,html,css,react,nextjs,tailwind&perline=9" alt="Languages and UI technologies"/>
+
+<sub>PLATFORMS & WORKFLOW</sub>
+
+<img src="https://skillicons.dev/icons?i=nodejs,androidstudio,firebase,supabase,git,github,vercel,figma&perline=8" alt="Platforms and workflow tools"/>
 
 </div>
 
@@ -201,6 +209,8 @@ _The live project feed will populate on the first successful workflow run._
 <div align="center">
 
 ## GITHUB SIGNALS
+
+<sub>Live widgets may take a moment to load. Stats reflect public GitHub activity and can vary by provider.</sub>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arsanygeniusmina-star&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=55DDF4&icon_color=55DDF4&text_color=C9D7E8" alt="GitHub statistics"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arsanygeniusmina-star&theme=transparent&hide_border=true&ring=55DDF4&fire=55DDF4&currStreakLabel=55DDF4&sideLabels=C9D7E8&dates=8B9BB4" alt="Contribution streak"/>
