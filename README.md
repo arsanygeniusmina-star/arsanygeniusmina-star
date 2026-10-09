@@ -6,7 +6,7 @@
 
 <a href="https://github.com/arsanygeniusmina-star?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0B1728?style=for-the-badge&logo=github&logoColor=66E3F5" alt="Projects"/></a>
 <a href="https://www.bulls-art.com/"><img src="https://img.shields.io/badge/BULLS_ART-0B1728?style=for-the-badge&logo=vercel&logoColor=66E3F5" alt="Bulls Art"/></a>
-<a href="https://arsany-mina-portfolio-arsear.vercel.app"><img src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0B1728?style=for-the-badge&logo=vercel&logoColor=66E3F5" alt="Interactive portfolio"/></a>
+<a href="https://arsany-mina-portfolio.vercel.app"><img src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0B1728?style=for-the-badge&logo=vercel&logoColor=66E3F5" alt="Interactive portfolio"/></a>
 
 <br/><br/>
 
@@ -173,7 +173,7 @@ A brand-focused web experience connected to the Bulls Art identity, combining a 
 
 <br/><br/>
 
-**Want the full visual experience?** [Open the interactive portfolio →](https://arsany-mina-portfolio-arsear.vercel.app)
+**Want the full visual experience?** [Open the interactive portfolio →](https://arsany-mina-portfolio.vercel.app)
 
 </div>
 
