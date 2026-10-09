@@ -6,6 +6,7 @@
 
 <a href="https://github.com/arsanygeniusmina-star?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0B1728?style=for-the-badge&logo=github&logoColor=66E3F5" alt="Projects"/></a>
 <a href="https://www.bulls-art.com/"><img src="https://img.shields.io/badge/BULLS_ART-0B1728?style=for-the-badge&logo=vercel&logoColor=66E3F5" alt="Bulls Art"/></a>
+<a href="https://arsany-mina-portfolio-arsear.vercel.app"><img src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-0B1728?style=for-the-badge&logo=vercel&logoColor=66E3F5" alt="Interactive portfolio"/></a>
 
 <br/><br/>
 
@@ -170,6 +171,10 @@ A brand-focused web experience connected to the Bulls Art identity, combining a 
 
 <a href="https://github.com/arsanygeniusmina-star?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0B1728?style=for-the-badge&logo=github&logoColor=55DDF4" alt="Explore all repositories"/></a>
 
+<br/><br/>
+
+**Want the full visual experience?** [Open the interactive portfolio →](https://arsany-mina-portfolio-arsear.vercel.app)
+
 </div>
 
 ---
@@ -181,10 +186,18 @@ A brand-focused web experience connected to the Bulls Art identity, combining a 
 <sub>Automatically refreshed by GitHub Actions every Monday, or manually from the Actions tab.</sub>
 
 <!-- LIVE-PROJECTS:START -->
-_The live project feed will populate on the first successful workflow run._
+| # | Project | What it explores | Code |
+|:--:|---|---|:--:|
+| 01 | **WIP Brain** | Browser-side AI and autonomous website-building experiments | [Open ↗](https://github.com/arsanygeniusmina-star/website-in-progress) |
+| 02 | **The Website That Watches You Back** | Interaction-led, procedural web experience | [Open ↗](https://github.com/arsanygeniusmina-star/the-website-that-watches-you-back) |
+| 03 | **Bulls Art Studio** | Creative brand and web experience | [Open ↗](https://github.com/arsanygeniusmina-star/Bullsartstudio) |
+| 04 | **Mariam Surprise** | Personalized interactive microsite | [Open ↗](https://github.com/arsanygeniusmina-star/Mariam-Surprise) |
+| 05 | **Youssef Surprise** | Personalized surprise website | [Open ↗](https://github.com/arsanygeniusmina-star/Youssef-Surprise) |
+
+[Browse all public repositories →](https://github.com/arsanygeniusmina-star?tab=repositories)
 <!-- LIVE-PROJECTS:END -->
 
-<sub>Last refreshed: <!-- LAST-UPDATED:START --> awaiting first run <!-- LAST-UPDATED:END --></sub>
+<sub>Last refreshed: <!-- LAST-UPDATED:START --> manual snapshot · 2026-10-09 <!-- LAST-UPDATED:END --></sub>
 
 </div>
 
