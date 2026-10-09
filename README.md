@@ -1,18 +1,24 @@
+<!--
+  ARSANY MINA — PROFILE CONTROL ROOM
+  Built for GitHub's Markdown renderer: animated remote visuals, responsive tables,
+  live project signals, and a scheduled workflow that refreshes the activity block.
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=ARSANY%20MINA&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=IDEAS%20INTO%20INTERACTIVE%20REALITY&descAlignY=60&descSize=18&animation=fadeIn&color=0:050816,45:101b3d,100:00d4ff" alt="Arsany Mina — Ideas into interactive reality"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=ARSANY%20MINA&fontSize=76&fontColor=F4FBFF&fontAlignY=36&desc=IDEAS%20INTO%20INTERACTIVE%20REALITY&descAlignY=59&descSize=18&animation=fadeIn&color=0:050816,45:101b3d,100:00d4ff" alt="Arsany Mina — futuristic profile banner"/>
 
-<a href="https://github.com/arsanygeniusmina-star"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=760&height=55&lines=CREATIVE+DEVELOPER+%2F+BUILDER;AI+%C3%97+WEB+%C3%97+PRODUCT+EXPERIMENTS;DESIGNING+WHAT+DOESN'T+EXIST+YET;THINK.+BUILD.+BREAK.+LEARN.+REPEAT." alt="Animated introduction"/></a>
+<a href="https://github.com/arsanygeniusmina-star"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=00D4FF&center=true&vCenter=true&width=760&height=55&lines=CREATIVE+DEVELOPER+%2F+PRODUCT+BUILDER;AI+AGENTS+%C2%B7+WEB+EXPERIENCES+%C2%B7+APPS;BUILDING+TOOLS+THAT+FEEL+LIKE+THE+FUTURE;THINK.+PROTOTYPE.+TEST.+REFINE.+SHIP." alt="Animated developer introduction"/></a>
 
 <br/>
 
-<a href="https://github.com/arsanygeniusmina-star?tab=repositories"><img src="https://img.shields.io/badge/⌘_EXPLORE_PROJECTS-071426?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=071426" alt="Explore projects"/></a>
-<a href="https://github.com/arsanygeniusmina-star?tab=stars"><img src="https://img.shields.io/badge/✦_STARRED-071426?style=for-the-badge&logo=github&logoColor=00d4ff" alt="Starred repositories"/></a>
-<a href="https://www.bulls-art.com/"><img src="https://img.shields.io/badge/◈_BULLS_ART-071426?style=for-the-badge&logo=vercel&logoColor=00d4ff" alt="Bulls Art"/></a>
+<a href="https://github.com/arsanygeniusmina-star?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_LAB-071426?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Explore repositories"/></a>
+<a href="https://www.bulls-art.com/"><img src="https://img.shields.io/badge/BULLS_ART-071426?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="Bulls Art"/></a>
+<a href="https://github.com/arsanygeniusmina-star?tab=stars"><img src="https://img.shields.io/badge/STARRED_PROJECTS-071426?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Starred projects"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=arsanygeniusmina-star&style=for-the-badge&color=00a6c7&label=PROFILE+SIGNALS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=arsanygeniusmina-star&style=for-the-badge&color=00a6c7&label=PROFILE+VISITS" alt="Profile visit counter"/>
 
 </div>
 
@@ -22,12 +28,13 @@
 
 ## ◉ SYSTEM PROFILE
 
-**Hey, I'm Arsany.**  
-I turn curious ideas into things people can actually explore, use, and experience.
+**Hey, I'm Arsany.**
 
-I’m drawn to the intersection of **technology, design, and imagination**—from AI-powered tools and useful applications to immersive websites with motion, personality, and detail.
+I build at the intersection of **AI, product engineering, and immersive design**—from autonomous website-building ideas and Android healthcare tools to Arabic-first learning platforms and experimental web experiences.
 
-I learn by building: prototype fast, understand the problem, improve the experience, and keep going.
+I like projects that are more than a pretty screen: they should solve a real problem, feel intentional, and have interesting engineering underneath. My process is hands-on: learn by building, test what breaks, and keep improving.
+
+**Current direction:** AI agents · full-stack products · Android · interactive web · thoughtful UI/UX
 
 </div>
 
@@ -37,36 +44,36 @@ I learn by building: prototype fast, understand the problem, improve the experie
 
 ### ⟡ WHAT I BUILD
 
-- **AI & agents** — assistants, automation, and tools that do more than chat
-- **Web experiences** — interactive, responsive, motion-rich interfaces
-- **Digital products** — apps shaped around real people and workflows
-- **Creative experiments** — unusual ideas, prototypes, and visual concepts
+- **AI & agent systems** — tool use, browser-side inference, persistent context, automation
+- **Immersive web** — motion-rich interfaces, responsive layouts, unusual interactions
+- **Useful applications** — healthcare workflows, learning tools, and real product experiences
+- **Creative technology** — prototypes that explore what software can feel like
 
 </td>
 <td width="50%" valign="top">
 
-### ⟡ HOW I THINK
+### ⟡ BUILD LOOP
 
 ```text
-OBSERVE      → Find the opportunity
-IMAGINE      → Define the experience
-PROTOTYPE    → Make it tangible
-TEST         → Learn what breaks
-REFINE       → Sweat the details
-SHIP         → Put it into the world
+01 / OBSERVE     Find the real problem
+02 / ARCHITECT   Choose the right approach
+03 / PROTOTYPE   Make the idea tangible
+04 / TEST        Find the weak points
+05 / REFINE      Improve logic and experience
+06 / SHIP        Put it in people's hands
 ```
-
-**Current mode:** curious, experimenting, building.
 
 </td>
 </tr>
 </table>
 
+---
+
 <div align="center">
 
-## ◉ THE WORKBENCH
+## ◉ FEATURED BUILDS — DEEP END FIRST
 
-<sub>A few directions represented across my projects — explore the repositories for the actual implementation and latest status.</sub>
+<sub>Curated by technical ambition and product scope, not just repository size. Private projects stay private; links below point to public repositories.</sub>
 
 </div>
 
@@ -74,56 +81,74 @@ SHIP         → Put it into the world
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/arsanygeniusmina-star/Bullsartstudio"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=Bullsartstudio&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="Bulls Art Studio repository card"/></a>
+<a href="https://github.com/arsanygeniusmina-star/website-in-progress"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=website-in-progress&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="Website in Progress repository card"/></a>
 
-### ◈ Bulls Art Studio
-A creative studio and portfolio experience connected to the **Bulls Art** brand—bringing visual work, services, and identity together.
+### ◈ WIP Brain · Autonomous Website Builder
 
-<a href="https://www.bulls-art.com/">Visit Bulls Art ↗</a>
+A browser-based website-building intelligence concept designed around an agent loop: interpret a request, plan structured edits, preserve project context, validate the result, critique it, and repair issues. It explores local browser inference through WebGPU/WebLLM rather than depending on Ollama or requiring a cloud AI key.
+
+**Why it stands out:** agent architecture + project memory + tool-driven editing + validation and repair.
 
 </td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/arsanygeniusmina-star/MediTek-GGLAI-STD"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=MediTek-GGLAI-STD&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="MediTek repository card"/></a>
+
+### ◈ MediTek · Android Healthcare
+
+An offline-first Android medication companion combining Kotlin and Jetpack Compose with Room, Firebase, scheduled reminders, medication tracking, bilingual Arabic/English support, and a Gemini-powered label-scanning assistant.
+
+**Why it stands out:** native Android architecture, local-first data, background scheduling, cloud sync, and AI-assisted workflows.
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/arsanygeniusmina-star/E3DAD--5ODAM"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=E3DAD--5ODAM&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="E3DAD 5ODAM repository card"/></a>
 
-### ◈ E3DAD 5ODAM
-An Arabic-first church learning and servant-preparation platform concept, with student and staff workflows, classes, learning content, and a ranking experience.
+### ◈ E3DAD 5ODAM · Learning Platform
+
+An Arabic-first church learning and servant-preparation platform focused on classes, student and teacher workflows, learning resources, and rankings. The broader project direction includes RTL-friendly design and admin/teacher operations.
+
+**Why it stands out:** a real community workflow with localization, role-based experiences, and structured learning.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/arsanygeniusmina-star/the-website-that-watches-you-back"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=the-website-that-watches-you-back&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="The Website That Watches You Back repository card"/></a>
+
+### ◈ The Website That Watches You Back
+
+An experimental Next.js experience that turns on-page interaction patterns into a procedural digital specimen, with behavioral scoring, a dramatic reveal, repeatable sessions, responsive UI, and reduced-motion support.
+
+**Why it stands out:** interaction design, procedural visualization, and a privacy-conscious experiment that does not request camera or microphone access.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/arsanygeniusmina-star/MediFind"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=MediFind&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="MediFind repository card"/></a>
+<a href="https://github.com/arsanygeniusmina-star/arsear-agent"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=arsear-agent&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="Arsear Agent repository card"/></a>
 
-### ◈ MediFind
-A medical-focused project in my product-building portfolio. Visit the repository for its current scope and implementation.
+### ◈ Arsear Agent
 
-</td>
-<td width="50%" valign="top">
+An AI-agent project built on the eve framework, with an extensible structure for agent instructions, tools, connections, channels, skills, subagents, and scheduled behavior.
 
-<a href="https://github.com/arsanygeniusmina-star/MediBot"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=MediBot&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="MediBot repository card"/></a>
-
-### ◈ MediBot
-An AI-oriented project exploring conversational software. The repository contains the source of truth for its current capabilities.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/arsanygeniusmina-star/desktop-jarvis"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=desktop-jarvis&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="Desktop Jarvis repository card"/></a>
-
-### ◈ Desktop Jarvis
-A desktop-assistant experiment inspired by the idea of a personal AI system that lives close to the user’s everyday workflow.
+**Why it stands out:** exploring agent orchestration and capability-based design rather than a single chat prompt.
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/arsanygeniusmina-star/Arsear-FREEBUFF"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=Arsear-FREEBUFF&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="Arsear Freebuff repository card"/></a>
+<a href="https://github.com/arsanygeniusmina-star/Bullsartstudio"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=Bullsartstudio&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="Bulls Art Studio repository card"/></a>
 
-### ◈ Arsear / Freebuff
-A project in my AI and developer-tool exploration space. Check the repository for its latest direction and details.
+### ◈ Bulls Art Studio
+
+A creative studio web experience connected to the Bulls Art brand, combining a visual identity with a modern web stack and motion-oriented interface work.
+
+**Why it stands out:** a brand-focused product experience with a real-world creative direction.
+
+<a href="https://www.bulls-art.com/">Visit Bulls Art ↗</a>
 
 </td>
 </tr>
@@ -139,20 +164,32 @@ A project in my AI and developer-tool exploration space. Check the repository fo
 
 <div align="center">
 
+## ◉ LIVE PROJECT PULSE
+
+<sub>This block is refreshed automatically by GitHub Actions every week, and can also be refreshed manually from the Actions tab.</sub>
+
+<!-- LIVE-PROJECTS:START -->
+_The live project feed will populate on the first scheduled or manual workflow run._
+<!-- LIVE-PROJECTS:END -->
+
+<sub>Last generated: <!-- LAST-UPDATED:START --> awaiting first run <!-- LAST-UPDATED:END --></sub>
+
+</div>
+
+---
+
+<div align="center">
+
 ## ◉ TECHNOLOGY RADAR
 
-<sub>Tools and technologies I work with or explore</sub>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,kotlin,androidstudio,html,css,tailwind,git,github,firebase,supabase,vercel,figma&perline=9" alt="Technology icons"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode,figma,firebase,supabase,vercel&perline=8" alt="Technology icons"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/WEB-0A1628?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/AI-0A1628?style=for-the-badge&logo=openai&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/PRODUCT-0A1628?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/DESIGN-0A1628?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/AI_&_AGENTS-0A1628?style=for-the-badge&logo=openai&logoColor=ffffff" alt="AI and agents"/>
+<img src="https://img.shields.io/badge/WEB_EXPERIENCES-0A1628?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Web experiences"/>
+<img src="https://img.shields.io/badge/ANDROID-0A1628?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android"/>
+<img src="https://img.shields.io/badge/PRODUCT_DESIGN-0A1628?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Product design"/>
 
 </div>
 
@@ -175,17 +212,13 @@ A project in my AI and developer-tool exploration space. Check the repository fo
 
 <div align="center">
 
-## ◉ BEYOND THE SCREEN
+## ◉ BUILD PHILOSOPHY
 
 **Design is how it feels. Engineering is how it works. Curiosity is why it exists.**
 
-I’m interested in the details that turn a working project into a memorable experience: clear flows, thoughtful interactions, strong visual systems, and technology that serves a purpose.
+I care about the details that turn a functional project into a memorable one: clear flows, thoughtful interactions, strong visual systems, and technology that serves a purpose.
 
-<br/>
-
-### TRANSMISSION: STILL BUILDING
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=THE+NEXT+IDEA+IS+ALWAYS+LOADING...;BUILD+SOMETHING+USEFUL.;MAKE+IT+FEEL+LIKE+SOMETHING+NEW.;SEE+YOU+IN+THE+NEXT+REPOSITORY." alt="Closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2700&pause=800&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=THE+NEXT+IDEA+IS+ALWAYS+LOADING...;BUILD+SOMETHING+USEFUL.;MAKE+IT+FEEL+LIKE+SOMETHING+NEW.;SEE+YOU+IN+THE+NEXT+REPOSITORY." alt="Animated closing message"/>
 
 <a href="https://github.com/arsanygeniusmina-star?tab=repositories"><img src="https://img.shields.io/badge/ENTER_THE_LAB-00D4FF?style=for-the-badge&logo=github&logoColor=06101d" alt="Enter the lab"/></a>
 
@@ -193,6 +226,6 @@ I’m interested in the details that turn a working project into a memorable exp
 
 <sub>ARSANY MINA · CREATIVE BUILDER · ALWAYS IN PROGRESS</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00d4ff,45:101b3d,100:050816" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00d4ff,45:101b3d,100:050816" alt="Footer banner"/>
 
 </div>
