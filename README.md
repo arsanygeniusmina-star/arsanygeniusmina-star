@@ -82,54 +82,54 @@ Glass-inspired interfaces, motion, clear information hierarchy, and responsive e
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/arsanygeniusmina-star/website-in-progress"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=website-in-progress&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="Website in Progress"/></a>
+<a href="https://github.com/arsanygeniusmina-star/website-in-progress"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=website-in-progress&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="WIP Brain repository"/></a>
 
 ### 01 / WIP Brain
 
-**Autonomous website-building agent**
+**Browser-side website-building agent**
 
-A browser-side website-building concept with a structured loop for understanding requests, planning edits, maintaining project context, validating results, and attempting targeted repairs. Explores WebGPU/WebLLM inference without relying on Ollama.
+An ambitious AI-agent experiment built around planning, project memory, structured site edits, validation, QA, and repair — with model inference explored directly in the browser.
 
-**Focus:** AI agents · WebGPU · Web engineering
+**Focus:** AI agents · WebGPU/WebLLM · Web engineering
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/arsanygeniusmina-star/MediTek-GGLAI-STD"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=MediTek-GGLAI-STD&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="MediTek"/></a>
+<a href="https://github.com/arsanygeniusmina-star/MediFind"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=MediFind&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="MediFind repository"/></a>
 
-### 02 / MediTek
+### 02 / MediFind
 
-**Android medication companion**
+**Nearby-pharmacy discovery**
 
-An offline-first Android application combining Kotlin, Jetpack Compose, Room, Firebase, reminders, medication tracking, bilingual Arabic/English support, and an AI-assisted label-scanning workflow.
+A map-led discovery interface combining browser location, nearby results, a selected-place detail view, and direction-oriented workflows.
 
-**Focus:** Kotlin · Android · Firebase · AI
+**Focus:** React · TypeScript · Leaflet · Geolocation
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/arsanygeniusmina-star/E3DAD--5ODAM"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=E3DAD--5ODAM&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="E3DAD 5ODAM"/></a>
+<a href="https://github.com/arsanygeniusmina-star/Dr.Merna-Ayoub_Physical-Therapy"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=Dr.Merna-Ayoub_Physical-Therapy&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="Dr. Mirna Ayoub website repository"/></a>
 
-### 03 / E3DAD 5ODAM
+### 03 / Dr. Mirna Ayoub
 
-**Arabic-first learning platform**
+**Physical therapy & dietary coaching**
 
-A church learning and servant-preparation platform focused on classes, student and teacher workflows, learning resources, and rankings, with RTL-aware experiences.
+A service website presenting physical therapy and dietary support, including calorie-calculation and daily meal-plan workflows.
 
-**Focus:** React · Firebase · Learning tools · RTL
+**Focus:** Service design · Health tools · Responsive UI
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/arsanygeniusmina-star/the-website-that-watches-you-back"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=the-website-that-watches-you-back&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="The Website That Watches You Back"/></a>
+<a href="https://github.com/arsanygeniusmina-star/the-website-that-watches-you-back"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=the-website-that-watches-you-back&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="The Website That Watches You Back repository"/></a>
 
 ### 04 / The Website That Watches You Back
 
-**An interaction-driven web experiment**
+**Interaction-driven web experiment**
 
-A Next.js experience that turns on-page interaction patterns into a procedural digital specimen, with scoring, a reveal sequence, repeatable sessions, responsive design, and reduced-motion support.
+A procedural experience that turns on-page interaction patterns into a digital specimen, with a reveal sequence, repeatable sessions, responsive layout, and reduced-motion support.
 
 **Focus:** Next.js · Interaction design · Procedural UI
 
@@ -138,28 +138,28 @@ A Next.js experience that turns on-page interaction patterns into a procedural d
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/arsanygeniusmina-star/arsear-agent"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=arsear-agent&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="Arsear Agent"/></a>
+<a href="https://github.com/arsanygeniusmina-star/Mariam-Surprise"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=Mariam-Surprise&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="Surprise Microsite repository"/></a>
 
-### 05 / Arsear Agent
+### 05 / Surprise Microsite
 
-**Extensible agent framework project**
+**Personalized interactive experience**
 
-An agent project using the eve framework, exploring a modular structure for instructions, tools, connections, channels, skills, subagents, and scheduled behavior.
+A reveal-led web experience built around playful motion and a memorable moment designed to feel custom rather than template-made.
 
-**Focus:** Agents · TypeScript · Automation
+**Focus:** Interactive UI · Motion design · Responsive web
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/arsanygeniusmina-star/Bullsartstudio"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=Bullsartstudio&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="Bulls Art Studio"/></a>
+<a href="https://github.com/arsanygeniusmina-star/Bullsartstudio"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=arsanygeniusmina-star&repo=Bullsartstudio&theme=transparent&hide_border=true&title_color=55DDF4&text_color=C9D7E8&icon_color=55DDF4" alt="Bulls Art Studio repository"/></a>
 
 ### 06 / Bulls Art Studio
 
 **Creative studio web experience**
 
-A brand-focused web experience connected to the Bulls Art identity, combining a modern web stack with visual presentation and motion-oriented interface work.
+A brand-led web experience for the Bulls Art identity, focused on strong visual presentation, modern interface design, and motion-minded storytelling.
 
-**Focus:** React · Design · Web experience
+**Focus:** Web design · Branding · Digital experience
 
 [Visit Bulls Art ↗](https://www.bulls-art.com/)
 
