@@ -310,3 +310,16 @@ h2{font-size:clamp(33px,4.2vw,52px);letter-spacing:-.065em;line-height:1.12;marg
   *,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
   .reveal{opacity:1;transform:none}
 }
+
+/* Live profile metrics */
+.hero-stats{display:flex;gap:0;margin-top:31px;max-width:440px}
+.hero-stat{display:flex;flex-direction:column;gap:4px;flex:1;padding-right:21px;margin-right:21px;border-right:1px solid rgba(160,214,239,.13)}
+.hero-stat:last-child{border-right:0;padding-right:0;margin-right:0}
+.hero-stat strong{font-size:23px;line-height:1.15;letter-spacing:-.055em;font-weight:700;color:#e8f9ff}
+.hero-stat span{font-family:var(--mono);font-size:8px;letter-spacing:.12em;color:#6f8da2;white-space:nowrap}
+html{scrollbar-color:#204455 #070b12;scrollbar-width:thin}
+::selection{background:rgba(103,232,249,.28);color:#f4fdff}
+img,svg{max-width:100%}
+@media(max-width:980px){.hero-stats{margin-top:25px}.hero-stat{padding-right:15px;margin-right:15px}.hero-stat strong{font-size:21px}}
+@media(max-width:720px){.hero-stats{max-width:400px;margin-top:25px}.hero-stat{padding-right:17px;margin-right:17px}.hero-stat strong{font-size:21px}}
+@media(max-width:420px){.hero-stat{padding-right:10px;margin-right:10px}.hero-stat strong{font-size:19px}.hero-stat span{font-size:7px;letter-spacing:.06em}}
