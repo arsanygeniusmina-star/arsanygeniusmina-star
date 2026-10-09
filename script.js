@@ -321,6 +321,7 @@
   const paletteInput = document.getElementById("command-input");
   const paletteResults = document.getElementById("palette-results");
   const paletteItems = paletteResults ? Array.from(paletteResults.querySelectorAll("[data-command-item]")) : [];
+  const paletteEmpty = document.getElementById("palette-empty");
   let paletteActiveIndex = -1, lastPaletteTrigger = null;
   const visiblePaletteItems = () => paletteItems.filter(item => !item.hidden);
   const setPaletteActive = index => {
@@ -335,6 +336,7 @@
   const filterPalette = () => {
     const query = (paletteInput?.value || "").trim().toLowerCase();
     paletteItems.forEach(item => { item.hidden = !(((item.dataset.search || "") + " " + item.textContent).toLowerCase().includes(query)); });
+    if (paletteEmpty) paletteEmpty.hidden = visiblePaletteItems().length > 0;
     setPaletteActive(0);
   };
   const openPalette = trigger => {
