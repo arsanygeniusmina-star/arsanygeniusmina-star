@@ -1,3 +1,4 @@
+html:not(.js-ready) .reveal{opacity:1;transform:none}
 :root{
   color-scheme:dark;
   --bg:#070b12;--bg-2:#0b1320;--panel:rgba(15,28,44,.62);--panel-strong:rgba(17,33,52,.82);
@@ -233,7 +234,7 @@ h2{font-size:clamp(33px,4.2vw,52px);letter-spacing:-.065em;line-height:1.12;marg
 .back-top{font-size:8px;color:#7d9bad;white-space:nowrap;transition:color .2s ease}
 .back-top:hover{color:var(--cyan)}
 .cursor-glow{position:fixed;z-index:-1;pointer-events:none;width:260px;height:260px;border-radius:50%;background:radial-gradient(circle,rgba(42,171,210,.055),transparent 70%);transform:translate(-50%,-50%);opacity:0;transition:opacity .3s ease}
-@keyframes core-float{0%,100%{transform:translateY(0) rotateY(-12deg) rotateX(8deg)}50%{transform:translateY(-10px) rotateY(-8deg) rotateX(5deg)}}
+@keyframes core-float{0%,100%{transform:translate(var(--float-x,0px),var(--float-y,0px)) rotateY(-12deg) rotateX(8deg)}50%{transform:translate(var(--float-x,0px),calc(var(--float-y,0px) - 10px)) rotateY(-8deg) rotateX(5deg)}}
 @keyframes card-float{0%,100%{translate:0 0}50%{translate:0 -7px}}
 @keyframes orbit-turn{to{rotate:360deg}}
 @keyframes scan{0%,100%{top:10px;opacity:.15}45%{top:calc(100% - 10px);opacity:.85}}
