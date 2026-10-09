@@ -31,10 +31,26 @@
   const projectCards = Array.from(document.querySelectorAll(".project-card[data-categories]"));
   const applyFilter = filter => {
     projectCards.forEach(card => {
-      const categories = (card.dataset.categories || "").split(/\s+/);
+      const categories = (card.dataset.categories || "").split(/\\s+/);
       const visible = filter === "all" || categories.includes(filter);
       card.classList.toggle("is-hidden", !visible);
       card.setAttribute("aria-hidden", String(!visible));
+      card.querySelectorAll("a, button, input, select, textarea, [tabindex]").forEach(control => {
+        if (visible) {
+          if (control.dataset.filterTabindex !== undefined) {
+            if (control.dataset.filterTabindex === "") control.removeAttribute("tabindex");
+            else control.setAttribute("tabindex", control.dataset.filterTabindex);
+            delete control.dataset.filterTabindex;
+          } else if (control.getAttribute("tabindex") === "-1") {
+            control.removeAttribute("tabindex");
+          }
+        } else {
+          if (control.dataset.filterTabindex === undefined) {
+            control.dataset.filterTabindex = control.getAttribute("tabindex") || "";
+          }
+          control.setAttribute("tabindex", "-1");
+        }
+      });
     });
     filterButtons.forEach(button => {
       const active = button.dataset.filter === filter;
