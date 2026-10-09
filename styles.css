@@ -451,3 +451,61 @@ img,svg{max-width:100%}
   .scroll-progress span{transition:none}
   .project-card::before{transition:none}
 }
+
+/* Project-specific artwork: pharmacy discovery, clinician-led wellness, and bilingual health AI. */
+.visual-find{background:radial-gradient(ellipse at 52% 50%,rgba(38,208,185,.12),transparent 67%),#091b24}
+.find-map{position:relative;width:min(82%,390px);height:166px;overflow:hidden;border-radius:13px;border:1px solid rgba(142,224,216,.2);background:linear-gradient(135deg,#122c34,#0a1b25);box-shadow:0 22px 48px rgba(0,0,0,.28),inset 0 1px rgba(255,255,255,.05);transform:rotate(-2deg)}
+.find-map::before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(133,204,196,.08) 1px,transparent 1px),linear-gradient(90deg,rgba(133,204,196,.08) 1px,transparent 1px);background-size:24px 24px}
+.find-map-road{position:absolute;border:1px solid rgba(166,211,200,.14);background:rgba(137,190,181,.06);border-radius:100px}
+.find-road-a{width:130%;height:24px;top:20%;left:-12%;transform:rotate(22deg)}
+.find-road-b{width:112%;height:18px;top:60%;left:-8%;transform:rotate(-18deg)}
+.find-road-c{width:24px;height:160%;top:-26%;left:36%;transform:rotate(24deg)}
+.find-road-d{width:17px;height:160%;top:-26%;right:20%;transform:rotate(-35deg)}
+.find-water{position:absolute;right:-9%;top:-24%;width:31%;height:76%;border-radius:50%;background:rgba(35,145,160,.16);transform:rotate(-24deg);filter:blur(1px)}
+.find-route{position:absolute;inset:18% 17% 19%;background:rgba(92,238,212,.68);opacity:.8;clip-path:polygon(3% 57%,7% 52%,34% 52%,42% 34%,62% 34%,71% 57%,94% 57%,94% 61%,68% 61%,59% 38%,44% 38%,36% 57%);filter:drop-shadow(0 0 5px rgba(92,238,212,.4))}
+.find-pin{position:absolute;z-index:2;display:grid;place-items:center;width:24px;height:24px;border:1px solid rgba(184,255,239,.72);border-radius:50% 50% 50% 6px;transform:rotate(-45deg);background:linear-gradient(145deg,#8cf5d9,#23bba9);color:#06342f;font-size:14px;font-weight:800;box-shadow:0 0 20px rgba(44,216,187,.24)}
+.find-pin::first-letter{transform:rotate(45deg)}
+.pin-one{left:29%;top:26%}.pin-two{right:23%;top:44%;scale:.82;background:linear-gradient(145deg,#9bf3ff,#48b9e2);border-color:rgba(173,239,255,.7);color:#0a2737}.pin-three{left:54%;top:58%;scale:.68}
+.find-location{position:absolute;z-index:3;left:12px;bottom:11px;right:12px;min-height:39px;display:flex;align-items:center;gap:9px;padding:7px 10px;border:1px solid rgba(170,232,222,.15);border-radius:9px;background:rgba(7,22,30,.91);box-shadow:0 8px 20px rgba(0,0,0,.2);backdrop-filter:blur(13px)}
+.find-location-dot{width:7px;height:7px;border-radius:50%;background:#6ce9ca;box-shadow:0 0 0 4px rgba(108,233,202,.09)}
+.find-location b,.find-location small{display:block}.find-location b{font-size:9px;color:#e0fff6}.find-location small{font-size:7px;color:#769e9d;margin-top:2px}
+.find-count{margin-left:auto;display:grid;place-items:center;width:24px;height:24px;border-radius:7px;background:rgba(103,232,249,.1);border:1px solid rgba(103,232,249,.15);font:9px var(--mono);color:#97f0e5}
+.visual-health{background:radial-gradient(ellipse at 50% 48%,rgba(186,219,194,.2),transparent 70%),#182522}
+.health-ui{position:relative;width:min(82%,390px);min-height:166px;padding:14px 16px 12px;border:1px solid rgba(245,239,221,.7);border-radius:12px;background:linear-gradient(130deg,#f5f0e5,#e9e6d8);box-shadow:0 22px 50px rgba(0,0,0,.29);color:#233b38;overflow:hidden;transform:rotate(1.5deg)}
+.health-ui::before{content:"";position:absolute;right:-25px;top:-48px;width:138px;height:138px;border:1px solid rgba(18,91,78,.14);border-radius:50%;box-shadow:0 0 0 18px rgba(18,91,78,.04),0 0 0 36px rgba(18,91,78,.03)}
+.health-brand{position:relative;display:flex;align-items:center;gap:8px;border-bottom:1px solid rgba(35,59,56,.14);padding-bottom:9px}
+.health-monogram{display:grid;place-items:center;width:27px;height:27px;border-radius:8px;background:#174d45;color:#e7f1dc;font-weight:800;font-size:14px}
+.health-brand b{display:block;font-size:8px;letter-spacing:.12em}
+.health-brand small{display:block;margin-top:2px;font:6px var(--mono);letter-spacing:.08em;color:#72847a}
+.health-heading{position:relative;margin:12px 0 7px;font-size:17px;font-weight:800;line-height:1.06;letter-spacing:-.065em}
+.health-heading em{font-family:Georgia,serif;font-weight:400;color:#247969}
+.health-lines{display:flex;flex-direction:column;gap:3px;width:44%;margin:0 0 9px}
+.health-lines span{height:2px;background:rgba(35,59,56,.13);border-radius:2px}.health-lines span:nth-child(2){width:74%}.health-lines span:nth-child(3){width:49%}
+.health-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:5px}
+.health-cards div{position:relative;padding:6px 7px 5px;min-height:34px;border:1px solid rgba(35,59,56,.11);border-radius:6px;background:rgba(255,255,255,.38)}
+.health-cards b{display:block;font:8px var(--mono);color:#287568}
+.health-cards small{display:block;font:5px var(--mono);letter-spacing:.02em;color:#667b70;margin-top:3px}
+.health-cards i{position:absolute;right:5px;top:5px;font-size:8px;color:#2d8675;font-style:normal}
+.visual-medibot{background:radial-gradient(ellipse at 50% 45%,rgba(86,115,255,.18),transparent 68%),#0b1222}
+.bot-window{position:relative;width:min(83%,390px);min-height:166px;padding:10px 12px 9px;border:1px solid rgba(171,190,255,.25);border-radius:12px;background:linear-gradient(145deg,rgba(21,31,54,.97),rgba(9,15,30,.98));box-shadow:0 22px 52px rgba(0,0,0,.34),inset 0 1px rgba(255,255,255,.05);transform:rotate(-1.25deg)}
+.bot-window-top{display:flex;align-items:center;gap:8px;border-bottom:1px solid rgba(174,192,255,.12);padding-bottom:9px}
+.bot-mark{display:grid;place-items:center;width:25px;height:25px;border-radius:8px;background:linear-gradient(135deg,#8be6ed,#8fa7ff);font-size:12px;font-weight:800;color:#0a1423}.bot-mark span{color:#3651a0}
+.bot-window-top b,.bot-window-top small{display:block}.bot-window-top b{font:8px var(--mono);letter-spacing:.1em;color:#e5f0ff}.bot-window-top small{font:6px var(--mono);letter-spacing:.035em;color:#687fa8;margin-top:2px}
+.bot-language{margin-left:auto;font:8px var(--mono);color:#92a9d7}.bot-language i{font-style:normal;color:#42577a}
+.bot-message{max-width:84%;font-size:7px;line-height:1.45;border-radius:8px;padding:7px 9px}
+.bot-user{margin:9px 0 6px auto;border:1px solid rgba(124,154,255,.16);background:rgba(105,133,255,.11);color:#d4e0ff}
+.bot-assistant{display:flex;gap:7px;align-items:flex-start;border:1px solid rgba(116,231,219,.14);background:rgba(94,219,212,.055);color:#d8f9f4;max-width:96%}
+.bot-orb{flex:none;display:grid;place-items:center;width:17px;height:17px;border-radius:5px;background:rgba(97,221,214,.15);font-size:8px;font-weight:800;color:#89f6e7}
+.bot-assistant b,.bot-assistant span{display:block}.bot-assistant b{font-size:7px;font-weight:700}.bot-assistant div>span{font-size:6px;color:#83aaa9;margin-top:3px}
+.bot-composer{display:flex;align-items:center;justify-content:space-between;margin-top:8px;padding:5px 7px;border:1px solid rgba(166,186,239,.13);border-radius:7px;color:#647ba2;font-size:7px}
+.bot-composer b{display:grid;place-items:center;width:17px;height:17px;border-radius:5px;background:#8be6ed;color:#0d1a2b;font-size:11px}
+.bot-note{text-align:right;margin-top:5px;font:5px var(--mono);letter-spacing:.09em;color:#6c80a0}
+.project-card .project-disclaimer{min-height:0;margin:12px 0 0;padding-left:9px;border-left:2px solid rgba(103,232,249,.2);font-size:9px;line-height:1.55;color:#72899b}
+@media(max-width:720px){
+  .find-map,.health-ui,.bot-window{width:min(84%,390px)}
+  .health-ui{padding:13px 14px 11px}
+}
+@media(max-width:420px){
+  .find-map,.health-ui,.bot-window{width:min(88%,390px)}
+  .health-cards small{font-size:4.5px}
+}
