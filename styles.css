@@ -431,3 +431,23 @@ img,svg{max-width:100%}
   .command-palette[open]{animation:none}
   .command-palette::backdrop{animation:none}
 }
+
+/* Final-state refinements */
+.main-nav a{position:relative}
+.main-nav a[aria-current="location"]{color:#e1faff}
+.main-nav a[aria-current="location"]::after{content:"";position:absolute;left:0;right:0;bottom:-12px;height:1px;background:linear-gradient(90deg,var(--cyan),transparent);box-shadow:0 0 10px rgba(103,232,249,.32)}
+.palette-empty{padding:20px 22px 24px;margin:0;color:#7893a7;font-size:11px}
+.palette-empty[hidden]{display:none}
+.activity-panel{background:linear-gradient(145deg,rgba(16,31,48,.76),rgba(7,15,26,.78));border-color:rgba(160,222,246,.16)}
+.project-card{position:relative;isolation:isolate}
+.project-card::before{content:"";position:absolute;z-index:2;left:15%;right:15%;top:-1px;height:1px;opacity:0;background:linear-gradient(90deg,transparent,rgba(103,232,249,.7),transparent);transition:opacity .25s ease;pointer-events:none}
+.project-card:hover::before{opacity:1}
+.command-trigger:focus-visible{outline-offset:3px}
+.scroll-progress span{transition:width .07s linear}
+@media(max-width:720px){
+  .main-nav a[aria-current="location"]::after{bottom:-8px}
+}
+@media(prefers-reduced-motion:reduce){
+  .scroll-progress span{transition:none}
+  .project-card::before{transition:none}
+}
