@@ -31,7 +31,7 @@
   const projectCards = Array.from(document.querySelectorAll(".project-card[data-categories]"));
   const applyFilter = filter => {
     projectCards.forEach(card => {
-      const categories = (card.dataset.categories || "").split(/\\s+/);
+      const categories = (card.dataset.categories || "").split(/\s+/);
       const visible = filter === "all" || categories.includes(filter);
       card.classList.toggle("is-hidden", !visible);
       card.setAttribute("aria-hidden", String(!visible));
