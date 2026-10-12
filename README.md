@@ -182,18 +182,21 @@ A brand-led web experience for the Bulls Art identity, focused on strong visual 
 <sub>Automatically refreshed by GitHub Actions every Monday, or manually from the Actions tab.</sub>
 
 <!-- LIVE-PROJECTS:START -->
-| # | Project | What it explores | Code |
-|:--:|---|---|:--:|
-| 01 | **WIP Brain** | Browser-side AI and autonomous website-building experiments | [Open ↗](https://github.com/arsanygeniusmina-star/website-in-progress) |
-| 02 | **The Website That Watches You Back** | Interaction-led, procedural web experience | [Open ↗](https://github.com/arsanygeniusmina-star/the-website-that-watches-you-back) |
-| 03 | **Bulls Art Studio** | Creative brand and web experience | [Open ↗](https://github.com/arsanygeniusmina-star/Bullsartstudio) |
-| 04 | **Mariam Surprise** | Personalized interactive microsite | [Open ↗](https://github.com/arsanygeniusmina-star/Mariam-Surprise) |
-| 05 | **Youssef Surprise** | Personalized surprise website | [Open ↗](https://github.com/arsanygeniusmina-star/Youssef-Surprise) |
+| # | Repository | Signal | Primary language | Last pushed |
+|:--:|---|---|---|:---:|
+| 01 | [**surprise**](https://github.com/arsanygeniusmina-star/surprise) | A separate surprise project based on the original Mariam Surprise codebase. | TypeScript | 2026-10-05 |
+| 02 | [**try**](https://github.com/arsanygeniusmina-star/try) | A project in progress. | TypeScript | 2026-09-26 |
+| 03 | [**0AHFIEWF0F**](https://github.com/arsanygeniusmina-star/0AHFIEWF0F) | A project in progress. | Exploration | 2026-09-20 |
+| 04 | [**desktop-jarvis**](https://github.com/arsanygeniusmina-star/desktop-jarvis) | A project in progress. | TypeScript | 2026-09-19 |
+| 05 | [**Mariam-Surprise**](https://github.com/arsanygeniusmina-star/Mariam-Surprise) | A project in progress. | TypeScript | 2026-09-14 |
+| 06 | [**Bullsartstudio1**](https://github.com/arsanygeniusmina-star/Bullsartstudio1) | A project in progress. | TypeScript | 2026-09-10 |
 
-[Browse all public repositories →](https://github.com/arsanygeniusmina-star?tab=repositories)
+[Browse every repository →](https://github.com/arsanygeniusmina-star?tab=repositories)
 <!-- LIVE-PROJECTS:END -->
 
-<sub>Last refreshed: <!-- LAST-UPDATED:START --> manual snapshot · 2026-10-09 <!-- LAST-UPDATED:END --></sub>
+<sub>Last refreshed: <!-- LAST-UPDATED:START -->
+2026-10-12 15:44 UTC
+<!-- LAST-UPDATED:END --></sub>
 
 </div>
 
