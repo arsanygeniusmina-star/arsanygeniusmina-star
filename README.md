@@ -195,7 +195,7 @@ A brand-led web experience for the Bulls Art identity, focused on strong visual 
 <!-- LIVE-PROJECTS:END -->
 
 <sub>Last refreshed: <!-- LAST-UPDATED:START -->
-2026-10-12 15:44 UTC
+2026-10-19 13:36 UTC
 <!-- LAST-UPDATED:END --></sub>
 
 </div>
