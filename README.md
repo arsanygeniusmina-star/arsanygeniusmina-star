@@ -184,18 +184,18 @@ A brand-led web experience for the Bulls Art identity, focused on strong visual 
 <!-- LIVE-PROJECTS:START -->
 | # | Repository | Signal | Primary language | Last pushed |
 |:--:|---|---|---|:---:|
-| 01 | [**surprise**](https://github.com/arsanygeniusmina-star/surprise) | A separate surprise project based on the original Mariam Surprise codebase. | TypeScript | 2026-10-05 |
-| 02 | [**try**](https://github.com/arsanygeniusmina-star/try) | A project in progress. | TypeScript | 2026-09-26 |
-| 03 | [**0AHFIEWF0F**](https://github.com/arsanygeniusmina-star/0AHFIEWF0F) | A project in progress. | Exploration | 2026-09-20 |
-| 04 | [**desktop-jarvis**](https://github.com/arsanygeniusmina-star/desktop-jarvis) | A project in progress. | TypeScript | 2026-09-19 |
-| 05 | [**Mariam-Surprise**](https://github.com/arsanygeniusmina-star/Mariam-Surprise) | A project in progress. | TypeScript | 2026-09-14 |
-| 06 | [**Bullsartstudio1**](https://github.com/arsanygeniusmina-star/Bullsartstudio1) | A project in progress. | TypeScript | 2026-09-10 |
+| 01 | [**Masiri-Base**](https://github.com/arsanygeniusmina-star/Masiri-Base) | Apostles | TypeScript | 2026-11-02 |
+| 02 | [**surprise**](https://github.com/arsanygeniusmina-star/surprise) | A separate surprise project based on the original Mariam Surprise codebase. | TypeScript | 2026-10-05 |
+| 03 | [**try**](https://github.com/arsanygeniusmina-star/try) | A project in progress. | TypeScript | 2026-09-26 |
+| 04 | [**0AHFIEWF0F**](https://github.com/arsanygeniusmina-star/0AHFIEWF0F) | A project in progress. | Exploration | 2026-09-20 |
+| 05 | [**desktop-jarvis**](https://github.com/arsanygeniusmina-star/desktop-jarvis) | A project in progress. | TypeScript | 2026-09-19 |
+| 06 | [**Mariam-Surprise**](https://github.com/arsanygeniusmina-star/Mariam-Surprise) | A project in progress. | TypeScript | 2026-09-14 |
 
 [Browse every repository →](https://github.com/arsanygeniusmina-star?tab=repositories)
 <!-- LIVE-PROJECTS:END -->
 
 <sub>Last refreshed: <!-- LAST-UPDATED:START -->
-2026-10-26 13:18 UTC
+2026-11-02 16:16 UTC
 <!-- LAST-UPDATED:END --></sub>
 
 </div>
